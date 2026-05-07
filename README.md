@@ -1,1 +1,1 @@
-This is Student A's Project.
+Student A updated this project.
